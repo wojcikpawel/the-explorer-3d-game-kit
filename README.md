@@ -1,1 +1,2 @@
-"# the-explorer-3d-game-kit" 
+# TheExplorer3DGameKitRepository
+https://learn.unity.com/project/3d-game-kit
